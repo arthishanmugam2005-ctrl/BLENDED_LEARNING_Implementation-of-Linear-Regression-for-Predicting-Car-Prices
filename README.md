@@ -83,8 +83,8 @@ plt.tight_layout()
 
 ```
 # Output:
-<img width="427" height="709" alt="Screenshot 2026-03-28 172647" src="https://github.com/user-attachments/assets/f73be7e8-f72a-4528-9530-0f7554fb2556" />
 
+<img width="1176" height="846" alt="Screenshot 2026-03-28 172947" src="https://github.com/user-attachments/assets/0953c7c5-a608-4361-a794-e15329f319e4" />
 
 
 # Result:
