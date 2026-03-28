@@ -32,7 +32,7 @@ from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 import seaborn as sns
 import statsmodels.api as sm
-df=pd.read_csv('CarPrice_Assignment.csv')
+df=pd.read_csv('CarPrice_Assignment (2).csv')
 df.head()
 X=df[['enginesize','horsepower','citympg','highwaympg']]
 y=df['price']
@@ -83,7 +83,8 @@ plt.tight_layout()
 
 ```
 # Output:
-<img width="440" height="598" alt="Screenshot 2026-03-28 100722" src="https://github.com/user-attachments/assets/e24b8f21-e5cf-4dec-b705-a36e0e9abef7" />
+<img width="427" height="709" alt="Screenshot 2026-03-28 172647" src="https://github.com/user-attachments/assets/f73be7e8-f72a-4528-9530-0f7554fb2556" />
+
 
 
 # Result:
