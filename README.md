@@ -9,12 +9,13 @@ To write a program to predict car prices using a linear regression model and tes
 
 ## Algorithm
 ```
-1.Import libraries and read the car price dataset.
-2.Define features (X) and target price (Y).
-3.Split data into train/test and scale the features.
-4.Train the Linear Regression model.
-5.Predict test results and evaluate using MSE, RMSE, MAE, and R².
-6.Plot graphs to verify linearity, independence, homoscedasticity, and normality. 
+1.Load the car price dataset and select features (engine size, horsepower, mileage) and target (price).
+
+2.Split the data into training and testing sets, then standardize the feature values.
+
+3.Train a Linear Regression model using the training data and predict prices for the test data.
+
+4.Evaluate the model using performance metrics (MSE, RMSE, MAE, R²) and visualize results to check model accuracy. 
 ```
 ## Program
 ```
