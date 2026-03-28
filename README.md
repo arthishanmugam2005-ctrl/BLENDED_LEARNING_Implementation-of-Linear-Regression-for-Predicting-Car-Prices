@@ -17,6 +17,7 @@ To write a program to predict car prices using a linear regression model and tes
 6.Plot graphs to verify linearity, independence, homoscedasticity, and normality. 
 ```
 ## Program
+```
 /*
  Program to implement linear regression model for predicting car prices and test assumptions.
 Developed by: ARTHI S
@@ -85,6 +86,7 @@ plt.tight_layout()
 # Output:
 
 <img width="1176" height="846" alt="Screenshot 2026-03-28 172947" src="https://github.com/user-attachments/assets/0953c7c5-a608-4361-a794-e15329f319e4" />
+<img width="893" height="799" alt="Screenshot 2026-03-28 173002" src="https://github.com/user-attachments/assets/009e52e3-706c-4b1d-a5e5-7b931465d2a9" />
 
 
 # Result:
